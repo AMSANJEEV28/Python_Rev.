@@ -23,34 +23,8 @@ Welcome to the **The Legend of Python** repository! This collection features bas
 This repository includes the following projects:
 
 1. **Terminal Adventure**
-2. **Grocery List**
-3. **To-Do List**
-4. **Inventory Management**
-5. **Reading List**
-6. **Mixtape Maker**
-7. **Bucket List**
-8. **D.R.Y. (Don’t Repeat Yourself)**
-9. **Fortune Cookie Generator**
-10. **Mars Orbiter**
-11. **Calculator**
-12. **Stonks**
-13. **Drive-Thru Simulation**
-14. **Restaurants**
-15. **Bob’s Burgers**
-16. **Favorite Cities**
-17. **Bank Accounts**
-18. **Pokédex**
-19. **Slot Machine**
-20. **Solar System Simulation**
-21. **Countdown Timer**
-22. **Forty Two**
-23. **Zen of Python**
+2. 
 
-### Final Project
-
-The final project is currently in development and will be added soon. Stay tuned!
-
-## Course Badges
 
 ![Hello World](https://www.codedex.io/images/badges/python/hello-world.png)
 ![Variables](https://www.codedex.io/images/badges/python/variables.png)
